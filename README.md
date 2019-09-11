@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 ### Usage
 ```bash
-python name_provider_dns.py
+$python name_provider_dns.py
 
 Usage: name_provider_dns.py [OPTIONS] COMMAND [ARGS]...
 
