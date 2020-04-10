@@ -1,16 +1,13 @@
-## INITIAL VERSION
-**ONLY WORKS ON PYTHON 3.6**
-
 ### Install
-```bash
+```
 git clone git@github.com:ialejandro/name-provider-dns.git
-cd name-provider-dns
-pip install -r requirements.txt
+cd name-provider-dns/virtualenvs
+pipenv shell
 ```
 
 ### Usage
-```bash
-$python name_provider_dns.py
+```
+$ ./name_provider_dns.py
 
 Usage: name_provider_dns.py [OPTIONS] COMMAND [ARGS]...
 
